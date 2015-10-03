@@ -1,0 +1,19 @@
+{
+  "name": "extremetoaster",
+  "version": "0.0.1",
+  "description": "extremetoaster.com website",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/insanity54/etrecursive"
+  },
+  "author": "Chris Grimmett <chris@grimtech.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insanity54/etrecursive/issues"
+  },
+  "homepage": "https://github.com/insanity54/etrecursive"
+}
