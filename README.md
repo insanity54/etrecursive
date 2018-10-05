@@ -1,4 +1,7 @@
 # etrecursive
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/insanity54/etrecursive.svg)](https://greenkeeper.io/)
+
 save the legacy
 
 
